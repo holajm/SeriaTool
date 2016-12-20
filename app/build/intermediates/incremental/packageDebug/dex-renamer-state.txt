@@ -1,0 +1,7 @@
+#Tue Dec 20 14:55:32 CST 2016
+base.0=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_498585ac52d2c890b660e7697d31fc7b76967d47
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a86973026a76bfa7acfbd5baca24e8b04ab175f4/classes.dex
+base.1=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a86973026a76bfa7acfbd5baca24e8b04ab175f4
+file.0=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_498585ac52d2c890b660e7697d31fc7b76967d47/classes.dex

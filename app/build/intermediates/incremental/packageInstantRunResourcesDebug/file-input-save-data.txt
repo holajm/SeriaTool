@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Tue Dec 20 14:51:36 CST 2016
+2.base=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/res/resources-debug.ap_/res/drawable/icon.png
+2.set=ANDROID_RESOURCE
+4.base=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/res/resources-debug.ap_
+7.file=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/res/resources-debug.ap_/res/layout/console.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.base=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/res/resources-debug.ap_/res/layout/loopback.xml
+1.set=ANDROID_RESOURCE
+7.base=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/res/resources-debug.ap_
+2.file=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/res/resources-debug.ap_/res/xml/serial_port_preferences.xml
+6.set=ANDROID_RESOURCE
+0.base=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/realsun12/StudioProjects/MainMenu/app/build/intermediates/res/resources-debug.ap_/res/layout/sending01010101.xml
+0.set=ANDROID_RESOURCE
